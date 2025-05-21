@@ -40,6 +40,6 @@ git clone https://github.com/kenn0419/job-hunter-api.git
 ### 2. Cài đặt
 cd job-hunter-api
 #### Cài đặt các phụ thuộc và chạy ứng dụng
-mvn install
+mvn install  
 mvn spring-boot:run
 
