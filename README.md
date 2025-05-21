@@ -43,12 +43,3 @@ cd job-hunter-api
 mvn install
 mvn spring-boot:run
 
-📌 Ghi chú
-Dự án hiện chưa có mô tả chi tiết hoặc tài liệu hướng dẫn cụ thể.
-
-Chưa có các bản phát hành chính thức.
-
-Không có thông tin về giấy phép sử dụng.
-
-🤝 Đóng góp
-Chúng tôi hoan nghênh mọi đóng góp từ cộng đồng. Nếu bạn muốn đóng góp, vui lòng fork repository, tạo nhánh mới và gửi pull request.
